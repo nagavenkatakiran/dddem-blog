@@ -21,11 +21,11 @@ share: true
 
 # Introduction
 
-It’s no secret there is a lot of work that goes into creating an entertaining, informative and enjoyable talk. No matter if it’s a soft/work skills talk, a talk about your experiences or an in-depth deep dive — taking that first leap into presenting a topic to a crowd of people is challenging.
+It’s no secret there is a lot of work that goes into creating an entertaining, informative and enjoyable talk. No matter if it’s a soft/work skill talk, a talk about your experiences or an in-depth deep dive — taking that first leap into presenting a topic to a crowd of people is challenging.
 
-Everyone in our community has something valuable to share, whether they are aware of it or not. As part of the work that is organising DDD East Midlands, we would like to make presenting at our conference as accessible and unintimidating as possible.
+Everyone in our community has something valuable to share, whether they are aware of it or not. As part of the work that is organizing DDD East Midlands, we would like to make presenting at our conference as accessible and unintimidating as possible.
 
-In this series of posts, we are going to explore from beginning to end how to create and present a talk. When talking through the aspects of this process, we realised it’s very much like a "choose your own adventure" story, there are many different ways to conquer the demon that is public speaking.
+In this series of posts, we are going to explore from beginning to end how to create and present a talk. When talking through the aspects of this process, we realized it’s very much like a "choose your own adventure" story, there are many different ways to conquer the demon that is public speaking.
 
 The content of this series is based on the things we have learnt in the last couple of years. It’s our hope that it may help you on your submissions to DDD East Midlands, and other conferences.
 
@@ -56,7 +56,7 @@ Maybe commit to talking about something you want to learn and spend the next few
 
 **4. The empowering speech**
 
-Again, this isn’t for everyone. Some speakers do a great job of rallying troops, inspiring everyone to go out, learn and improve on themselves. Do you see yourself as that person who can do an empowering monologue in that favourite film of yours? Help to inspire your tech warriors to take to their keyboards and type! Do you see yourself writing a keynote one day? This style of topic might be up your street.
+Again, this isn’t for everyone. Some speakers do a great job of rallying troops, inspiring everyone to go out, learn and improve on themselves. Do you see yourself as that person who can do an empowering monologue in that favorite film of yours? Help to inspire your tech warriors to take to their keyboards and type! Do you see yourself writing a keynote one day? This style of topic might be up your street.
 
 These are but a few broad areas you could consider when coming up with a talk topic. There are many more.
 
@@ -88,7 +88,7 @@ Until next time,
 
 ## Series
 
-_How To Talk Really, Really Good_
+_How to Talk Really, Really Good_
 
 * <strong><a href="{{site.baseurl}}/2019/01/08/coming-up-with-a-talk-post.html">How To Talk Part 1 - Coming up with a talk</a></strong>
 * <a href="{{site.baseurl}}/2019/02/08/writing-a-talk-proposal-post.html">How To Talk Part 2 - Writing a good talk proposal</a>
